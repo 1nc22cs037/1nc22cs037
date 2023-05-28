@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deeksha G</h1>
-<h3 align="center">A passionate Software Engineering from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding"width="400"src="htts://user">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1nc22cs037&label=Profile%20views&color=0e75b6&style=flat" alt="1nc22cs037" /> </p>
 
